@@ -8,7 +8,7 @@ QA Automation Engineer passionate about crafting robust testing frameworks. Expe
 
 * 🌍  I'm based in SAN JOSE, California
 * ✉️  You can contact me at [adilyadanil@gmail.com](mailto:adilyadanil@gmail.com)
-* 🧠  I'm learning JS and TS
+* 🧠  I'm learning CI/CD
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am a LadyBugTester!
 
