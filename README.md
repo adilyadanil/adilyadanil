@@ -1,8 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adilya Danil
 ====================================================================================================================================
 
-QA Automation Engineer
-----------------------
 
 I am a Software QA Automation Engineer, passionate about crafting robust testing frameworks. Expertise in Java, Selenium, Cucumber BDD, and DDD. Reduced manual testing by 35%, achieving 95% defect identification accuracy. Committed to continuous learning and mentoring. Let's connect and elevate software quality together! 🚀"
 
