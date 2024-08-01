@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 QA Automation Engineer
 ----------------------
 
-QA Automation Engineer passionate about crafting robust testing frameworks. Expertise in Java, Selenium, Cucumber BDD, and DDD. Reduced manual testing by 35%, achieving 95% defect identification accuracy. Committed to continuous learning and mentoring. Let's connect and elevate software quality together! 🚀"
+I am a Software QA Automation Engineer, passionate about crafting robust testing frameworks. Expertise in Java, Selenium, Cucumber BDD, and DDD. Reduced manual testing by 35%, achieving 95% defect identification accuracy. Committed to continuous learning and mentoring. Let's connect and elevate software quality together! 🚀"
 
 * 🌍  I'm based in SAN JOSE, California
 * ✉️  You can contact me at [adilyadanil@gmail.com](mailto:adilyadanil@gmail.com)
